@@ -9,7 +9,6 @@ import br.com.dio.ui.custom.input.NumberText;
 import br.com.dio.ui.custom.panel.MainPanel;
 import br.com.dio.ui.custom.panel.SudokuSector;
 import br.com.dio.ui.service.BoardService;
-import br.com.dio.ui.service.EventListener;
 import br.com.dio.ui.service.NotifierService;
 
 import javax.swing.JPanel;
