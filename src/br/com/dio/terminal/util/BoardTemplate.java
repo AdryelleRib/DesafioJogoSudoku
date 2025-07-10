@@ -1,8 +1,9 @@
-package br.com.dio.util;
+package br.com.dio.terminal.util;
 
 public final class BoardTemplate {
 
-    private BoardTemplate() {}
+    private BoardTemplate() {
+    }
 
     public final static String BOARD_TEMPLATE =
             """
